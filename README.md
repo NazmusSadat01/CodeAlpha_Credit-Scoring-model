@@ -14,7 +14,7 @@ Predict whether a customer is "creditworthy or not" using machine learning.
 
 ##  Dataset
 
-* Source: (Kaggle / UCI / Custom dataset)
+* Source: (Kaggle Custom dataset)
 * https://www.kaggle.com/datasets/mdnazmussadat1/credit-scoring
   
 ## Key Outputs
