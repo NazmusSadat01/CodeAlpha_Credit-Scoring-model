@@ -5,7 +5,7 @@
 
 ## Objective
 
-Predict whether a customer is **creditworthy or not** using machine learning.
+Predict whether a customer is "creditworthy or not" using machine learning.
 
 ## Model
 
@@ -14,30 +14,13 @@ Predict whether a customer is **creditworthy or not** using machine learning.
 
 <img width="992" height="346" alt="model graph" src="https://github.com/user-attachments/assets/e24106ce-2e57-4b0a-888f-f7330a8c7e57" />
 
-
-
-
-
-## 📊 Dataset
+##  Dataset
 
 * Source: (Kaggle / UCI / Custom dataset)
+* https://www.kaggle.com/datasets/mdnazmussadat1/credit-scoring
 * 
+## Output
 
-## ⚙️ Installation
+<img width="601" height="187" alt="accuracy" src="https://github.com/user-attachments/assets/a4a62834-5f39-429d-9d6e-204195005539" />
 
-```bash
-git clone https://github.com/your-username/credit-scoring-model.git
-cd credit-scoring-model
-pip install -r requirements.txt
-```
 
-## ▶️ Run
-
-```bash
-python src/model.py
-```
-
-## 📈 Output
-
-* Prediction: Good / Bad Credit
-* Accuracy: XX%
