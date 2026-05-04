@@ -18,7 +18,7 @@ Predict whether a customer is "creditworthy or not" using machine learning.
 
 * Source: (Kaggle / UCI / Custom dataset)
 * https://www.kaggle.com/datasets/mdnazmussadat1/credit-scoring
-* 
+  
 ## Key Outputs
 
 **Model Performance Metrics:** Comparative analysis of Logistic Regression, Decision Tree, and Random Forest models using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
